@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="cat-banner-view.jpg" alt="Banner" />
+  <img src="cat-pc-banner.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Taniya! 👋</h1>
