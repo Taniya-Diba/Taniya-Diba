@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudhei02/assets/main/code-banner-dark.png" alt="Banner" />
+  <img src="cat-banner-view.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Taniya! 👋</h1>
