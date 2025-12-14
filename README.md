@@ -37,15 +37,15 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhei02&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Taniya-Diba&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taniya-Diba&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudhei02&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Taniya-Diba&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -72,5 +72,5 @@
 
 <!-- Visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhei02&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Taniya-Diba&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
