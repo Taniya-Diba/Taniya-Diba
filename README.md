@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="cat-pc-banner.jpg" alt="Profile Banner" width="100%" />
+  <img src="Banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Taniya Diba</h1>
