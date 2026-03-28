@@ -23,7 +23,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Taniya-Diba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Taniya's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=Taniya-Diba&theme=tokyonight&radius=10" alt="Taniya-Diba's Activity Graph" />
+  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=Taniya-Diba&theme=tokyonight&radius=10" alt="Taniya-Diba's Activity Graph" />
 </p>
 
 
